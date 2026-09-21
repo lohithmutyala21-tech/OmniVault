@@ -26,7 +26,7 @@ OmniVault is an offline, zero-latency document intelligence application designed
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/omnivault-snapdragon.git
+   git clone https://github.com/lohithmutyala21-tech/omnivault-snapdragon.git
    cd omnivault-snapdragon
    ```
 
