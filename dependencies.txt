@@ -1,0 +1,5 @@
+streamlit==1.32.0
+PyMuPDF==1.23.26
+onnxruntime==1.17.1
+numpy==1.26.4
+transformers==4.39.1
